@@ -1,0 +1,28 @@
+Gestão de tempo 
+Na filosofia da frasco cheio podemos ver que ele consegue continuar colocando diversos tipo de objetos como, agua, cascalho, areia, mostrando que nosso tempo mesmo que pequeno da pra gente preenche-lo fazendo algo, assim realizando diversas tarefas em um tempo limitado.
+
+Alocar o tempo: Prever quanto tempo levará para concluir as tarefas.
+Priorizar as Tarefas: Decidir quais tarefas precisam ser concluídas com mais urgência.
+Criar um Cronograma: Elaborar um plano para quando e como as tarefas serão concluídas.
+Ser Pontual: Completar tarefas antes do prazo e chegar a reuniões importantes com 10 minutos de antecedência.
+
+E = (A+4B+C)/6.
+1+4*2+5/6
+
+Estimativa de Tempo Otimista (A)
+Estimativa de Tempo Mais Provável (B)
+Estimativa de Tempo Pessimista (C)
+
+Matriz Eisenhower
+4 quadrados indicando quais são os mais importantes.
+
+Criação de cronogramas
+
+Agenda
+Tarefas de rotina
+Principais prioridades usando a [Matriz Eisenhower
+Divida grandes projetos em pequenos pedaços.
+Use lembretes
+Crie um sistema que faça sentido
+
+Pontualidade

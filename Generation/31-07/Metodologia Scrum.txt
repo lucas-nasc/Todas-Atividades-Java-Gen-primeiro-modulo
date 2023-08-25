@@ -1,0 +1,91 @@
+Prioridade em satisfazer o cliente com a entrega precoce e continua.
+
+mudança de requesitos sao importantes mesmo no final
+
+entrega de software e atualização
+
+as pessoas devem travalhar juntas diariamente
+
+contrução de projetos em torno de individuos motivados
+
+conversa face a face para alinhamento de ideias
+
+o software deve esar funcuionando
+
+manter o ritmo constante
+
+Exelencia de tecnica e deings
+
+Simplicidade a arte de maxizar
+
+melhorar a arquitetura
+
+Em intervalos pensar em tornar mais eficase
+
+modelo cascata
+Todas as etapas ate chegar no final
+vantagem
+entrega rapida
+
+desvantegem
+retrabalho, revisão, ingessado
+
+agil
+Todo processo é revisado em usar atualizações e caso algum problema podemos realizar mudanças.
+
+desvantagens 
+todas as pessoas tem que estar envolvidas.
+
+Scruum
+
+Transparencia- todos tem conhecimento dos requesitos
+
+Inspeções
+contante noção do que esta acontecendo
+
+adaptações
+prudutos e mudanças.
+
+
+product owner - visão do produto saber o que quer e aonde quer chegar e fazer um product backlog
+
+Scrum master - Gerente
+
+Dev Team - Equipe agil
+
+product backlog- Funcionalidades que deseja e são ordenadas por prioridades/importancia.
+Sprints - são eventos de entrega de projetos
+Sprint planning - plano de entrega.
+
+TRES PERGUNTAS BASICAS PARA PROJETO - é uma reunião de 15 minutos
+
+o que eu fiz ontem que ajudou a meta do time?
+
+o que vou fazer hoje para atingir a meta do time?
+
+Tem algum impedimentos que atinja a mim ao time não estar atingindo a meta?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ferramentas
+
+Notions
+
+Trelo
+
+Burndown chat
+
+Kanban Board
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Restropectiva 
+Ver o que foi positivo e negativo e aonde devemos melhorar
+
+
+Para organizar a tarefas menor complexidade primeiro depois as mais complexas.
+
+
+
+
+
+

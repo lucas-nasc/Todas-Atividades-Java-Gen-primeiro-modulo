@@ -1,0 +1,9 @@
+Git clone é para clonar o repositorio do github
+
+Branches são ramos que são utilizados para fazer funcionalidades isoladas.
+
+Branch Main/master  quando voce cria um repositorio de uma versão segura Repositorio padrão .
+
+para criar uma nova branch temos que usar o comando git checkout -b"gitgen" (menos b olhar no mapa) 
+
+utilizamos o comando GIT MERGE NOMEARQUIVO junta as duas versões do git

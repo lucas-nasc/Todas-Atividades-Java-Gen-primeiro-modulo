@@ -1,0 +1,3 @@
+Uma matriz ou Vetoresarray armazena diversos elementos do mesmo tipo primitivo
+
+uma colection armazena itens do mesmo tipo primitivo em ordem de arrya e podemos selecionar em qual indice(numero da fila) podemos coloca-lo ou tira-lo
